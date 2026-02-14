@@ -1,0 +1,6 @@
+{
+  "server-id": {
+    "joinChannelId": "join-to-create-channel-id",
+    "categoryId": "tempvoice-category-id"
+  }
+}
