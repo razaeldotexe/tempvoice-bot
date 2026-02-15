@@ -15,7 +15,7 @@ module.exports = {
         try {
             // 1. Create Category
             const category = await guild.channels.create({
-                name: '━━1━━━Temp Voice━━━━━',
+                name: '━━━━━Temp Voice━━━━━',
                 type: ChannelType.GuildCategory,
             });
 
